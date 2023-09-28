@@ -1,8 +1,21 @@
-# React + Vite
+Proyecto La Niña Mimada - README
+Este repositorio corresponde al proyecto "La Niña Mimada", una tienda de juguetes en línea creado por Ángel Efren Barrios Romero para el curso de ReactJS de CoderHouse.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Descripción
+Este proyecto es una tienda en línea que permite a los usuarios explorar y comprar juguetes para niños de todas las edades.
 
-Currently, two official plugins are available:
+Funcionalidades
+Catálogo de Juguetes
+Carrito de Compras
+Autenticación de Usuarios (simulada)
+Tecnologías Utilizadas
+HTML
+CSS
+JavaScript
+React.js
+Autor
+Ángel Efren Barrios Romero
+Licencia
+Este proyecto está bajo la Licencia MIT (broma broma).
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+¡Gracias por revisar este proyecto!

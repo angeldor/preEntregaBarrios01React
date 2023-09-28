@@ -17,6 +17,7 @@ export const Navbar = () => {
         <li>Juegos de Mesa</li>
         <li>Educativos</li>
         <li>Al Aire Libre</li>
+        <li>Decorativos</li>
       </ul>
       <CartWidget className="cart" />
     </div>
